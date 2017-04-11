@@ -13,5 +13,6 @@ public class GnomeActivity extends AppCompatActivity {
 
     private void gnomeSucks() {
         // I CHANGED YOUR ACTIVITY! HAHAHAHAHAHAHA
+        // I changed the activity again!!
     }
 }
